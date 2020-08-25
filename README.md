@@ -7,4 +7,4 @@
 - Now and then I write a couple of words on my personal blog: [marcelhauri.ch](https://marcelhauri.ch)
 - You can reach me on [twitter.com/mhauri](https://twitter.com/mhauri)
 
-Enjoy!
+![Stats](https://github-readme-stats.vercel.app/api?username=mhauri&show_icons=true&theme=graywhite)
