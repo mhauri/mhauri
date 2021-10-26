@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 18px; position: absolute;">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 18px; margin-left: 5px; position: absolute;">
 
 **I'm a Software Developer and Lecturer in Application Development working in Bern, Switzerland.**
 
