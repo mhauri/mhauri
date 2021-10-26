@@ -13,7 +13,7 @@
  - [The missing «20 Minuten» Search Function](https://marcelhauri.ch/blog/the-missing-20-minuten-search-function)
  - [Shutting down Magestats](https://marcelhauri.ch/blog/shutting-down-magestats)
  - [How to colorize a tree output in Gatsby's Prism plugin](https://marcelhauri.ch/blog/how-to-colorize-a-tree-output-in-gatsbys-prism-plugin)
- 
+
 #### Mostly working with:
 
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white&color=111827)
