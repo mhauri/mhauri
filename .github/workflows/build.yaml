@@ -28,6 +28,7 @@ jobs:
         run: node index.js
         env:
           BASE_API_URL: ${{secrets.BASE_API_URL}}
+          BASE_SITE_URL: ${{secrets.BASE_SITE_URL}}
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
