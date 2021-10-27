@@ -30,3 +30,10 @@
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=111827)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=111827)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=111827)
+
+<hr />
+<div style="text-align: center">
+README.md last auto generated {TIMESTAMP}
+<br/>
+<a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
+</div>

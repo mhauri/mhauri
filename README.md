@@ -10,9 +10,9 @@
 
 #### My latest posts:
 
- - [The missing «20 Minuten» Search Function](undefined/blog/the-missing-20-minuten-search-function)
- - [Shutting down Magestats](undefined/blog/shutting-down-magestats)
- - [How to colorize a tree output in Gatsby's Prism plugin](undefined/blog/how-to-colorize-a-tree-output-in-gatsbys-prism-plugin)
+ - [The missing «20 Minuten» Search Function](https://marcelhauri.ch/blog/the-missing-20-minuten-search-function)
+ - [Shutting down Magestats](https://marcelhauri.ch/blog/shutting-down-magestats)
+ - [How to colorize a tree output in Gatsby's Prism plugin](https://marcelhauri.ch/blog/how-to-colorize-a-tree-output-in-gatsbys-prism-plugin)
 
 #### Mostly working with:
 
@@ -33,3 +33,10 @@
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=111827)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=111827)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=111827)
+
+<hr />
+<div style="text-align: center">
+README.md last auto generated Wed, 27 Oct 2021 07:51:39 GMT
+<br/>
+<a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
+</div>
