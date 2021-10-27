@@ -35,8 +35,8 @@
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=111827)
 
 <hr />
-<div style="text-align: center">
-README.md last auto generated Wed, 27 Oct 2021 07:53:12 GMT
+<div align="center">
+README.md last auto generated Wed, 27 Oct 2021 07:54:30 GMT
 <br/>
 <a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
 </div>
