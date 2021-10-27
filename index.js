@@ -2,6 +2,7 @@ const fs = require('fs');
 const https = require('https');
 
 const BASE_API_URL = process.env.BASE_API_URL
+const BASE_SITE_URL = process.env.BASE_SITE_URL
 
 function updateBlogPosts() {
   let url = BASE_API_URL + '/posts?collection=blog&per_page=3';
@@ -13,7 +14,7 @@ function updateBlogPosts() {
       body = JSON.parse(body);
       let articles = '';
       body.forEach(function (item) {
-        articles += `\n - [${item.title}](https://marcelhauri.ch/${item.collection}/${item.slug})`;
+        articles += `\n - [${item.title}](${BASE_SITE_URL}/${item.collection}/${item.slug})`;
       })
 
       fs.readFile('TEMPLATE.md', 'utf-8', (err, data) => {
