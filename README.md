@@ -10,9 +10,9 @@
 
 #### My latest posts:
 
- - [The missing «20 Minuten» Search Function](undefined/blog/the-missing-20-minuten-search-function)
- - [Shutting down Magestats](undefined/blog/shutting-down-magestats)
- - [How to colorize a tree output in Gatsby's Prism plugin](undefined/blog/how-to-colorize-a-tree-output-in-gatsbys-prism-plugin)
+ - [The missing «20 Minuten» Search Function](https://marcelhauri.ch/blog/the-missing-20-minuten-search-function)
+ - [Shutting down Magestats](https://marcelhauri.ch/blog/shutting-down-magestats)
+ - [How to colorize a tree output in Gatsby's Prism plugin](https://marcelhauri.ch/blog/how-to-colorize-a-tree-output-in-gatsbys-prism-plugin)
 
 #### Mostly working with:
 
