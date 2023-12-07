@@ -10,9 +10,9 @@
 
 #### My latest posts:
 
+ - [Creating and Utilizing Sock Puppets for OSINT](https://marcelhauri.ch/blog/creating-and-utilizing-sock-puppets-for-osint)
  - [The missing «20 Minuten» Search Function](https://marcelhauri.ch/blog/the-missing-20-minuten-search-function)
  - [Shutting down Magestats](https://marcelhauri.ch/blog/shutting-down-magestats)
- - [How to colorize a tree output in Gatsby's Prism plugin](https://marcelhauri.ch/blog/how-to-colorize-a-tree-output-in-gatsbys-prism-plugin)
 
 #### Mostly working with:
 
@@ -36,7 +36,7 @@
 
 <hr />
 <div align="center">
-README.md last auto generated Thu, 07 Dec 2023 12:01:22 GMT
+README.md last auto generated Thu, 07 Dec 2023 15:01:28 GMT
 <br/>
 <a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
 </div>
