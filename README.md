@@ -10,9 +10,9 @@
 
 #### My latest posts:
 
+ - [Advanced Persistent Threats in the Digital Landscape](https://marcelhauri.ch/blog/advanced-persistent-threats-in-the-digital-landscape)
  - [Creating and Utilizing Sock Puppets for OSINT](https://marcelhauri.ch/blog/creating-and-utilizing-sock-puppets-for-osint)
  - [The missing «20 Minuten» Search Function](https://marcelhauri.ch/blog/the-missing-20-minuten-search-function)
- - [Shutting down Magestats](https://marcelhauri.ch/blog/shutting-down-magestats)
 
 #### Mostly working with:
 
@@ -36,7 +36,7 @@
 
 <hr />
 <div align="center">
-README.md last auto generated Thu, 18 Jan 2024 18:01:25 GMT
+README.md last auto generated Thu, 18 Jan 2024 21:01:26 GMT
 <br/>
 <a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
 </div>
