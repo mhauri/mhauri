@@ -10,9 +10,9 @@
 
 #### My latest posts:
 
+ - [Bjorn: A Cute and Practical Network Testing Sidekick](https://marcelhauri.ch/blog/bjorn-a-cute-and-practical-network-testing-sidekick)
  - [Advanced Persistent Threats in the Digital Landscape](https://marcelhauri.ch/blog/advanced-persistent-threats-in-the-digital-landscape)
  - [Creating and Utilizing Sock Puppets for OSINT](https://marcelhauri.ch/blog/creating-and-utilizing-sock-puppets-for-osint)
- - [The missing «20 Minuten» Search Function](https://marcelhauri.ch/blog/the-missing-20-minuten-search-function)
 
 #### Mostly working with:
 
@@ -36,7 +36,7 @@
 
 <hr />
 <div align="center">
-README.md last auto generated Sat, 23 Nov 2024 21:01:24 GMT
+README.md last auto generated Sun, 24 Nov 2024 00:04:51 GMT
 <br/>
 <a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
 </div>
