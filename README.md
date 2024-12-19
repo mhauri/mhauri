@@ -10,9 +10,9 @@
 
 #### My latest posts:
 
+ - [Cyber Security Specialist with Federal Diploma](https://marcelhauri.ch/blog/cyber-security-specialist-with-federal-diploma)
  - [Bjorn: A Cute and Practical Network Testing Sidekick](https://marcelhauri.ch/blog/bjorn-a-cute-and-practical-network-testing-sidekick)
  - [Advanced Persistent Threats in the Digital Landscape](https://marcelhauri.ch/blog/advanced-persistent-threats-in-the-digital-landscape)
- - [Creating and Utilizing Sock Puppets for OSINT](https://marcelhauri.ch/blog/creating-and-utilizing-sock-puppets-for-osint)
 
 #### Mostly working with:
 
@@ -36,7 +36,7 @@
 
 <hr />
 <div align="center">
-README.md last auto generated Thu, 19 Dec 2024 15:01:28 GMT
+README.md last auto generated Thu, 19 Dec 2024 18:01:30 GMT
 <br/>
 <a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
 </div>
