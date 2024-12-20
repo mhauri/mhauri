@@ -10,7 +10,7 @@
 
 #### My latest posts:
 
- - [Cyber Security Specialist with Federal Diploma](https://marcelhauri.ch/blog/cyber-security-specialist-with-federal-diploma)
+ - [Cyber Security Specialist with Federal Diploma 🎉](https://marcelhauri.ch/blog/cyber-security-specialist-with-federal-diploma)
  - [Bjorn: A Cute and Practical Network Testing Sidekick](https://marcelhauri.ch/blog/bjorn-a-cute-and-practical-network-testing-sidekick)
  - [Advanced Persistent Threats in the Digital Landscape](https://marcelhauri.ch/blog/advanced-persistent-threats-in-the-digital-landscape)
 
@@ -36,7 +36,7 @@
 
 <hr />
 <div align="center">
-README.md last auto generated Fri, 20 Dec 2024 09:01:16 GMT
+README.md last auto generated Fri, 20 Dec 2024 12:01:42 GMT
 <br/>
 <a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
 </div>
