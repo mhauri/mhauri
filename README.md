@@ -10,9 +10,9 @@
 
 #### My latest posts:
 
+ - [The Hidden Risks of SMS-Based Two-Factor Authentication](https://marcelhauri.ch/blog/the-hidden-risks-of-sms-based-two-factor-authentication)
  - [Cyber Security Specialist with Federal Diploma 🎉](https://marcelhauri.ch/blog/cyber-security-specialist-with-federal-diploma)
  - [Bjorn: A Cute and Practical Network Testing Sidekick](https://marcelhauri.ch/blog/bjorn-a-cute-and-practical-network-testing-sidekick)
- - [Advanced Persistent Threats in the Digital Landscape](https://marcelhauri.ch/blog/advanced-persistent-threats-in-the-digital-landscape)
 
 #### Mostly working with:
 
@@ -36,7 +36,7 @@
 
 <hr />
 <div align="center">
-README.md last auto generated Mon, 23 Dec 2024 09:01:21 GMT
+README.md last auto generated Mon, 23 Dec 2024 12:01:31 GMT
 <br/>
 <a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
 </div>
