@@ -10,9 +10,9 @@
 
 #### My latest posts:
 
+ - [Thermomix Data Breach: 3.3 Million Users Affected](https://marcelhauri.ch/blog/thermomix-data-breach-33-million-users-affected)
  - [Critical Security Fix in iTerm2](https://marcelhauri.ch/blog/critical-security-fix-in-iterm2)
  - [New Bold and Fresh Look](https://marcelhauri.ch/blog/new-bold-and-fresh-look)
- - [The Hidden Risks of SMS-Based Two-Factor Authentication](https://marcelhauri.ch/blog/the-hidden-risks-of-sms-based-two-factor-authentication)
 
 #### Mostly working with:
 
@@ -36,7 +36,7 @@
 
 <hr />
 <div align="center">
-README.md last auto generated Fri, 07 Feb 2025 15:01:18 GMT
+README.md last auto generated Fri, 07 Feb 2025 18:01:34 GMT
 <br/>
 <a href="https://marcelhauri.ch" target="_blank">Learn to automate you own README here!</a>
 </div>
